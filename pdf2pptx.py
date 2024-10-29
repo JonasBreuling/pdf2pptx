@@ -1,4 +1,4 @@
-import os, sys
+import os
 import argparse
 
 from pdf2image import convert_from_path

@@ -5,7 +5,7 @@ version = "0.0.1"
 author = "Jonas Breuling"
 author_email = "breuling@inm.uni-stuttgart.de"
 url = ""
-description = "Convert *.pdf files to *.pptx files with fiven resolution."
+description = "Seamless conversion of pdf files to PowerPoint presentations."
 long_description = ""
 license = "LICENSE"
 

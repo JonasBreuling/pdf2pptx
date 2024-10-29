@@ -1,0 +1,4 @@
+presentation/
+*.pyc
+*.txt
+*.egg-info
